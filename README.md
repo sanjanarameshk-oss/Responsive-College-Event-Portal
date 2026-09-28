@@ -4,7 +4,7 @@ A responsive college event management portal developed using HTML5, CSS3, and Ja
 
 ## 🚀 Live Demo
 
-👉 [View Live Demo](https://github.com/sanjanarameshk-oss/Responsive-College-Event-Portal.git)
+👉https://github.com/sanjanarameshk-oss/Responsive-College-Event-Portal.git
 
 ## 📌 Project Features
 
